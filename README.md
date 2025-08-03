@@ -40,16 +40,24 @@ model = LogisticRegression(max_iter=1000)
 model.fit(X_train, y_train)
 ```
 
-### 📊 Model Accuracy:
+###  Model Accuracy:
 - Accuracy: **~82%**
 - Techniques used: Confusion Matrix, ROC AUC, Feature Importance
 
-📷 *Add screenshot of confusion matrix or model evaluation here*
-![Model Evaluation](images/model_accuracy.png)
+###  Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
----
+###  ROC Curve
+![ROC Curve](roc_curve.png)
 
-## 📊 Power BI Dashboard Highlights
+### Random Forest Feature Importance
+![Random Forest](random_forest.png)
+
+###  Churn Analysis 
+![Customer Churn Analysis](customer_churn_analysis.png)
+
+
+##  Power BI Dashboard Highlights
 
 - Churn rate breakdown by:
   - Contract Type
@@ -58,21 +66,8 @@ model.fit(X_train, y_train)
 - Demographic Insights
 - Interactive filters for dynamic analysis
 
-📷 *Add screenshots of dashboard pages here*
-![Dashboard Overview](images/powerbi_dashboard.png)
+![Powerbi dashboard](dashboard_powerbi.png).
 
----
-
-## 🗂️ Project Structure
-
-| File | Description |
-|------|-------------|
-| `Customer_Churn_Analysis.ipynb` | Jupyter Notebook with ML pipeline |
-| `new apppppppppp.pbix` | Power BI Dashboard file |
-| `images/` | Folder for screenshots |
-| `README.md` | Project documentation |
-
----
 
 ## 📌 Installation Instructions
 
@@ -84,7 +79,7 @@ git clone https://github.com/yourusername/telecom-churn-prediction.git
 ```bash
 jupyter notebook Customer_Churn_Analysis.ipynb
 ```
-3. Open `new apppppppppp.pbix` in Power BI Desktop.
+3. Open `customer_churn_powerbi` in Power BI Desktop.
 
 ---
 
