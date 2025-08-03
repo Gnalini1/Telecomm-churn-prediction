@@ -7,10 +7,10 @@ This project uses **Machine Learning** and **Power BI** to predict telecom custo
 
 ##  Project Overview
 
-- 🔍 Data: Synthetic customer churn dataset
-- 🧠 ML Models: Logistic Regression, Decision Tree, Random Forest, XGBoost
-- 📈 Visualization: Power BI interactive dashboard
-- 🛠 Tools: Python, Jupyter Notebook, Pandas, Seaborn, Scikit-learn, Power BI
+-  Data: Synthetic customer churn dataset
+-  ML Models: Logistic Regression, Decision Tree, Random Forest, XGBoost
+-  Visualization: Power BI interactive dashboard
+-  Tools: Python, Jupyter Notebook, Pandas, Seaborn, Scikit-learn, Power BI
 
 ---
 
@@ -83,6 +83,6 @@ jupyter notebook Customer_Churn_Analysis.ipynb
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-If you find this useful, give it a ⭐ and connect with me for collaborations!
+If you find this useful, give it a star and connect with me for collaborations!
