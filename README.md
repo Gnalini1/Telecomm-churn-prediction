@@ -73,7 +73,7 @@ model.fit(X_train, y_train)
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/telecom-churn-prediction.git
+git clone https://github.com/Gnalini1/telecom-churn-prediction.git
 ```
 2. Run Jupyter Notebook:
 ```bash
