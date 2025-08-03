@@ -1,11 +1,11 @@
 
-# 📞 Telecom Customer Churn Prediction
+#  Telecom Customer Churn Prediction
 
 This project uses **Machine Learning** and **Power BI** to predict telecom customer churn and visualize insights. It helps identify potential customers likely to discontinue service, allowing companies to take proactive retention steps.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 - 🔍 Data: Synthetic customer churn dataset
 - 🧠 ML Models: Logistic Regression, Decision Tree, Random Forest, XGBoost
@@ -14,7 +14,7 @@ This project uses **Machine Learning** and **Power BI** to predict telecom custo
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 - **Total Records**: 7,043 customers  
 - **Target**: `Churn` (Yes/No)  
@@ -25,7 +25,7 @@ This project uses **Machine Learning** and **Power BI** to predict telecom custo
 
 ---
 
-## 🧪 Machine Learning Process (Jupyter Notebook)
+##  Machine Learning Process (Jupyter Notebook)
 
 ### ✔️ Steps:
 1. Data Cleaning & Preprocessing
@@ -33,7 +33,7 @@ This project uses **Machine Learning** and **Power BI** to predict telecom custo
 3. Feature Selection & Train-Test Split
 4. Model Training & Evaluation
 
-### 🔢 Code Snippet:
+###  Code Snippet:
 ```python
 from sklearn.linear_model import LogisticRegression
 model = LogisticRegression(max_iter=1000)
@@ -69,7 +69,7 @@ model.fit(X_train, y_train)
 ![Powerbi dashboard](dashboard_powerbi.png).
 
 
-## 📌 Installation Instructions
+##  Installation Instructions
 
 1. Clone the repo:
 ```bash
